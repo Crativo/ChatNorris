@@ -1,0 +1,10 @@
+{
+  "name": "Whatever",
+  "version": "0.0.1",
+  "description": "A minimal chat application",
+  
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
